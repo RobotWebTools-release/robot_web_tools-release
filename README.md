@@ -1,3 +1,24 @@
+## robot_web_tools (jade) - 0.0.3-0
+
+The packages in the `robot_web_tools` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade robot_web_tools --new-track` on `Tue, 21 Apr 2015 18:36:41 -0000`
+
+The `robot_web_tools` package was released.
+
+Version of package(s) in repository `robot_web_tools`:
+- upstream repository: https://github.com/RobotWebTools/robot_web_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## robot_web_tools (indigo) - 0.0.3-0
 
 The packages in the `robot_web_tools` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo robot_web_tools` on `Thu, 30 Oct 2014 18:28:29 -0000`
